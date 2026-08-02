@@ -11,7 +11,6 @@ In the coming era of specialized AI, agents will need to collaborate. Axiom prov
 - **Capability Registry:** A marketplace where developers publish AI services and agents discover them.
 - **Axiom Conductor:** The orchestration brain that plans goals and autonomously hires sub-agents.
 - **Reputation System:** A feedback loop that ranks providers based on transaction success and performance.
-
 ## 🛠️ Tech Stack
 - **Monorepo:** TypeScript Workspaces
 - **Backend:** Node.js, Express, Prisma ORM
